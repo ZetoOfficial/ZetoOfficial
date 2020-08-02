@@ -1,28 +1,19 @@
 ### Hi there 👋
 
-<h2>Example of code</h2>
+<img src="https://i.pinimg.com/originals/b2/2a/a2/b22aa22b2f3f55b6468361158d52e2e7.gif" object-fit="cover">
 
-<pre>
-    <div class="container">
-        <div class="block two first">
-            <h2>Your title</h2>
-            <div class="wrap">
-                da
-            </div>
-        </div>
-    </div>
-</pre>
+## **Pavel, 16 years old, Python developer (may be)**
 
-**ZetoOffical/ZetoOffical** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://t.me/ZetoQqq">
+  <img align="left" alt="Telegram" width="64px" src="https://cdn1.iconfinder.com/data/icons/andriod-app-logo/32/icon_telegram-256.png" style="vertical-align: top; margin: 15px">
+</a>
+<a href="https://vk.com/zeto_qq">
+  <img align="left" alt="Vk" width="64px" src="https://cdn1.iconfinder.com/data/icons/andriod-app-logo/32/icon_vk-256.png" style="vertical-align: top; margin: 15px">
+</a>
+<br>
+<br>
 
-Here are some ideas to get you started:
+<img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" width="32px" alt="python" style="vertical-align: top; margin: 15px">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<img src="https://pythonforundergradengineers.com/posts/zappa/images/flask_icon.png" width="32px" alt="flask" style="vertical-align: top; margin: 15px"><img src="https://icon-library.com/images/django-icon/django-icon-0.jpg" width="32px" alt="django" style="vertical-align: top; margin: 15px"><img src="https://i.imgur.com/zJI48F6.png" width="32px" alt="discord py" style="vertical-align: top; margin: 15px">
 
