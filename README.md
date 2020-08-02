@@ -1,11 +1,8 @@
-### Hi there 👋
-
 <img src="https://i.pinimg.com/originals/b2/2a/a2/b22aa22b2f3f55b6468361158d52e2e7.gif" object-fit="cover">
 
 ## **Pavel, 16 years old, Python developer (may be)**
 
 ### Social
-
 
 <a href="https://t.me/ZetoQqq">
   <img align="left" alt="Telegram" width="64px" src="https://cdn1.iconfinder.com/data/icons/andriod-app-logo/32/icon_telegram-256.png" style="vertical-align: top; margin: 15px">
