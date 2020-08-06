@@ -4,11 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zetooffical" alt="zetooffical"/> </p>
 
-### Coding experience
-**6 months+**
-
-- 🌱 I’m currently learning **C#**
-
 <p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="vuejs" width="40" height="40"/></p>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ZetoOffical&show_icons=true" alt="zetoqqq"/>
