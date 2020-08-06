@@ -4,17 +4,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zetooffical" alt="zetooffical"/> </p>
 
-### Projects
-[GitHub](https://github.com/ZetoOffical?tab=repositories)
-
 ### Coding experience
 **6 months+**
 
-<p align="left">
-<img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="vuejs" width="40" height="40"/>
-</p>
+- 🌱 I’m currently learning **C#**
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ZetoOffical&show_icons=true" alt="zetoqqq" />
+<p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="vuejs" width="40" height="40"/></p>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ZetoOffical&show_icons=true" alt="zetoqqq"/>
 
 <p align="center">
 <a href="https://linkedin.com/in/mikield" target="blank"><img align="center" src="https://cdn1.iconfinder.com/data/icons/andriod-app-logo/32/icon_telegram-256.png" alt="ZetoOffical" height="32" width="32"/></a>
