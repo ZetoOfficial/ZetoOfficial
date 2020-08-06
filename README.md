@@ -1,6 +1,6 @@
 <img src="https://i.pinimg.com/originals/b2/2a/a2/b22aa22b2f3f55b6468361158d52e2e7.gif" object-fit="cover">
 
-<h1 align="center">**Hi 👋, I'm Pavel, 16 years old, Python developer (may be)**</h1>
+<h1 align="center">Hi 👋, I'm Pavel, 16 years old, Python developer (may be)</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zetooffical" alt="zetooffical"/> </p>
 
