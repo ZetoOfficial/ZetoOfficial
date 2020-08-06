@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Pavel</h1>
 
-<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=ZetoOffical&show_icons=true" alt="zetoqqq" width="50%"/><img src="https://i.pinimg.com/originals/b2/2a/a2/b22aa22b2f3f55b6468361158d52e2e7.gif" width="50%"></p>
+<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=ZetoOffical&show_icons=true" alt="zetoqqq"/></p>
 
 <h3 align="center">Back-end Developer | Bot Developer</h3>
 
