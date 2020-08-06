@@ -8,12 +8,12 @@
 
 - **💎 Experience in programming: 8 months+**
 
+<h3>Languages</h3>
+<p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/><img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/></p>
+
 <h3>Statistics</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zetooffical" alt="zetooffical"/> </p>
 <p align="left"><img src="https://github-readme-stats.vercel.app/api?username=ZetoOffical&show_icons=true" alt="zetoqqq"/></p>
-
-<h3>Languages</h3>
-<p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/><img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/></p>
 
 <h4 align="center">Communication</h4>
 
