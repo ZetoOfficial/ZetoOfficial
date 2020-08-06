@@ -11,7 +11,7 @@
 <br>
 
 ### Da
-https://komarev.com/ghpvc/?username=zetooffical
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=zetooffical" alt="zetooffical"/> </p>
 
 ### Projects
 [GitHub](https://github.com/Bloodielie?tab=repositories)
