@@ -6,7 +6,7 @@
 
 - **🛠 About: Like Harry Potter communicating with snakes in a common language.**
 
-- **💎 Experience in programming: 6 months**
+- **💎 Experience in programming: 8 months+**
 
 <h3>Statistics</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zetooffical" alt="zetooffical"/> </p>
