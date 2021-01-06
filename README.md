@@ -6,8 +6,6 @@
 
 - **🛠 About: Like Harry Potter communicating with snakes in a common language.**
 
-- **💎 Experience in programming: 8 months+**
-
 <h3>Statistics</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zetoofficial" alt="zetooffical"/> </p>
 <p align="left"><img src="https://github-readme-stats.vercel.app/api?username=ZetoOfficial&show_icons=true" alt="zetoqqq"/></p>
